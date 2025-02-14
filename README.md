@@ -1,8 +1,8 @@
 # HW2
 ## How to Run
-mvn clean install
-java -jar target/hw2.jar
-
+All of the files can be found in HW1/src/application, DatabaseHelper.java can be found in HW1/src/datbasePart1:
+StartCSE360.java	The main entry point.
+DatabaseHelper.java	Database
 ## Generate UML
 in HW1 folder
 
