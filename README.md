@@ -7,6 +7,8 @@ DatabaseHelper.java	Database
 in HW1 folder
 
 ## Task 5
-The screencast shows and explains the code and shows that it is in alignment with the documentation. 2.mp4,
+The screencast shows and explains the code and shows that it is in alignment with the documentation.
+The screencast explains how the code accomplishes its purpose.
 
-The screencast explains how the code accomplishes its purpose.1.png
+Both screencast is in this link, download and it is 1.zip and 2.zip for both of task.
+https://c.wss.cc/f/gau83h584is
